@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "timesheetapp",
+    "slug": "timesheetapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "timesheetapp"
+}
